@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+dist/
+build/
+*.log
+*.jsonl
+.env
+.env.*
+.pi/
+.DS_Store
